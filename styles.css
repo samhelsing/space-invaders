@@ -1,0 +1,22 @@
+.grid{
+    width: 300px;
+    height: 300px;
+    display: flex;
+    flex-wrap: wrap;
+    border: solid black 1px;
+}
+.bg{
+    width: 20px;
+    height: 20px;
+
+}
+
+.user{
+    background-color:steelblue
+}
+.invaders{
+    background-color: chocolate;
+}
+.bullets{
+    background-color: darkred;
+}
